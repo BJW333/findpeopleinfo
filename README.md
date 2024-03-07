@@ -1,6 +1,5 @@
 # findpeopleinfo
 
-you need phoneinfoga installed first 
 
 
 git clone (link)
