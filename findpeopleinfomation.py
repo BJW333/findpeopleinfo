@@ -41,7 +41,7 @@ def main():
         7. exit
         
         """)
-        ch = input("OSINT")
+        ch = input("OSINT: ")
         if ch == '1':
             osintA()
         elif ch == '2':
