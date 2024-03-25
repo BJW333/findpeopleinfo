@@ -15,9 +15,9 @@ from bs4 import BeautifulSoup
 from twilio.rest import Client
 import subprocess
 
-numverify_api_key = 'b37f49faa0741e6c348e07567616683d'
-twilio_account_sid = 'AC2587a2bf07b2d43725d8bf4307b86cc4'
-twilio_auth_token = 'bc2718d3b1f9b94c79f9668a8a5e10d1'
+numverify_api_key = 'apikey'
+twilio_account_sid = 'apikey'
+twilio_auth_token = 'apikey'
 client = Client(twilio_account_sid, twilio_auth_token)
 
 def main():
