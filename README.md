@@ -2,7 +2,7 @@
 
 Overview
 -----------
-The OSINT Toolkit is a Python-based command-line tool designed to assist in open-source intelligence (OSINT) gathering. It offers various functionalities, such as name searches, phone number lookups, email checks, license plate searches, VIN searches, and username investigations. This toolkit leverages APIs, web scraping, and web-based searches to provide comprehensive information on the provided inputs.
+The findpeopleinfo OSINT Toolkit is a Python-based command-line tool designed to assist in open-source intelligence (OSINT) gathering. It offers various functionalities, such as name searches, phone number lookups, email checks, license plate searches, VIN searches, and username investigations. This toolkit leverages APIs, web scraping, and web-based searches to provide comprehensive information on the provided inputs.
 
 Features
 -----------
